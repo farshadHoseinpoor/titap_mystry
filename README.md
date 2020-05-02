@@ -7,3 +7,5 @@ linux
 [فهرست اصلی دستورات اینجا هستن](http://linuxbook.ir/chapters/common_shell_commands.html)
 
 برای شروع فایل رید می رو بخونید.
+
+راز تیتاب به سپیده
