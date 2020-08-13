@@ -1,6 +1,7 @@
 test1
 test2
 test3
+test4
 
 You wake up in an office! You are hungry and looking for some 
 TiTap! The manager has some, hidden somewhere!
